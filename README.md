@@ -5,8 +5,6 @@ This project consists of two major components implemented in Python:
 1. **Object Tracking in Random Matrices** – Identifying horizontally moving objects across two 2D matrices using MSE-based matching and optimized hashing.
 2. **Instance Segmentation from Semantic Labels** – Converting a semantic segmentation mask into an instance segmentation mask using graph-based connected components.
 
----
-
 ## Post Mid-sem: Object Tracking in 2D Matrices
 
 ### Problem
@@ -22,8 +20,6 @@ Given two 2D matrices (`mat1` and `mat2`), where an object moves horizontally to
 - Python
 - NumPy
 - Matplotlib
-
----
 
 ## Pre Mid-sem: Instance Segmentation from Semantic Masks
 
@@ -41,8 +37,6 @@ Given a semantic segmentation mask (2D image with class labels), generate an ins
 - OpenCV
 - NumPy
 - Matplotlib
-
----
 
 ## Setup Instructions
 
