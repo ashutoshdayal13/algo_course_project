@@ -7,7 +7,7 @@ This project consists of two major components implemented in Python:
 
 ---
 
-## 📌 Project 1: Object Tracking in 2D Matrices
+## Post Mid-sem: Object Tracking in 2D Matrices
 
 ### Problem
 Given two 2D matrices (`mat1` and `mat2`), where an object moves horizontally to the left from `mat1` to `mat2`, the goal is to detect and generate a mask of the moving object. The match is constrained row-wise using window-based mean squared error (MSE) metrics.
@@ -25,7 +25,7 @@ Given two 2D matrices (`mat1` and `mat2`), where an object moves horizontally to
 
 ---
 
-## 📌 Project 2: Instance Segmentation from Semantic Masks
+## Pre Mid-sem: Instance Segmentation from Semantic Masks
 
 ### Problem
 Given a semantic segmentation mask (2D image with class labels), generate an instance segmentation mask where each connected component of a class is assigned a unique instance ID.
@@ -44,7 +44,7 @@ Given a semantic segmentation mask (2D image with class labels), generate an ins
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
    ```bash
